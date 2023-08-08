@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vampsdamon&label=Profile%20views&color=0e75b6&style=flat" alt="vampsdamon" /> </p>
 
-<img src="ezgif-3-9a88e1e870.gif" style="width:auto margin:auto"></img>
+<img src="ezgif-3-9a88e1e870.gif" style="position: relative;left: 50%;display: block; transform: translateX(-50%);border-radius: 15px; -webkit-box-shadow: 10px 10px 5px #a429f0ba;"></img>
 # 💫 About Me:
  👩‍💻 Full stack developer with a passion for coding and problem-solving.<br>🌱 Currently diving deep into React.js to enhance my frontend skills.<br>📚 Proficient in programming languages like C, C++, Java, and JavaScript.<br>⚙️ Familiar with frameworks like Bootstrap and Tailwind for creating responsive and visually appealing websites.<br>🎨 Skilled in web designing tools like HTML and CSS, crafting engaging user interfaces.<br>🎨 Experienced in using design tools like Figma to bring creative ideas to life.<br>🧠 Enthusiastic about data structures, constantly seeking to improve my problem-solving prowess.<br>🔍 Committed to continuous learning and staying updated with the latest tech trends.<br>🤝 Collaborative team player with strong communication skills, eager to contribute to exciting projects.<br>🚀 Dedicated to refining my coding skills and delivering high-quality, innovative solutions.
 
